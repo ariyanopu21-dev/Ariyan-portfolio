@@ -1,0 +1,23 @@
+ariyan-portfolio/
+├── index.php
+├── about.php
+├── services.php
+├── work.php
+├── album.php
+├── contact.php
+├── 404.php
+├── install.php
+├── sitemap.php
+├── robots.txt
+├── .htaccess
+├── README.md
+├── config/database.php
+├── includes/{init.php, functions.php, header.php, navbar.php, footer.php}
+├── admin/{index.php, login.php, logout.php, dashboard.php, albums.php, album-create.php, album-edit.php, photos.php, services.php, settings.php}
+├── admin/includes/{header.php, sidebar.php, footer.php}
+├── languages/{en.php, bn.php}
+├── assets/css/style.css
+├── assets/js/main.js
+├── assets/images/  ← আপনার ৫টা ছবি এখানে
+├── uploads/{albums, photos, thumbnails}/.htaccess
+└── database/database.sql
